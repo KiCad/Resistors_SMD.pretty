@@ -6,7 +6,7 @@
   (fp_text reference R_2010 (at 0.09906 -3.0988) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
-  (fp_text value Resistor_SMD2010_ReflowWave_RevA_Date21Jun2010 (at 0.09906 3.79984) (layer F.SilkS) hide
+  (fp_text value R*** (at 0.09906 3.79984) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
   )
   (fp_line (start -3.8989 1.09982) (end -3.8989 1.80086) (layer F.SilkS) (width 0.381))

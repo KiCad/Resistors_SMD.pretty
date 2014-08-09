@@ -4,7 +4,7 @@
   (fp_text reference R_Cat16-4 (at 0 -2.10058) (layer F.SilkS)
     (effects (font (size 0.20066 0.20066) (thickness 0.04064)))
   )
-  (fp_text value RN*** (at 0 1.99898) (layer F.SilkS) hide
+  (fp_text value R*** (at 0 1.99898) (layer F.SilkS) hide
     (effects (font (size 0.20066 0.20066) (thickness 0.04064)))
   )
   (fp_line (start 0.50038 -1.69926) (end 0.50038 1.69926) (layer F.SilkS) (width 0.127))
