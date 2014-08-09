@@ -1,4 +1,4 @@
-(module Resistor_SMD2512_HandSoldering_RevA_Date21Jun2010 (layer F.Cu)
+(module r_2512_HandSoldering (layer F.Cu)
   (at 0 0)
   (descr "Resistor, SMD, 2512, Hand soldering,")
   (tags "Resistor, SMD, 2512, Hand soldering,")

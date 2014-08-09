@@ -1,4 +1,4 @@
-(module Resistor_SMD1206_HandSoldering_RevA_Date21Jun2010 (layer F.Cu)
+(module r_1206_HandSoldering (layer F.Cu)
   (at 0 0)
   (descr "Resistor, SMD, 1206, HandSoldering,")
   (tags "Resistor, SMD, 1206, Hand soldering,")
