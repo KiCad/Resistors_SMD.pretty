@@ -1,4 +1,4 @@
-(module r_0603 (layer F.Cu)
+(module R_0603 (layer F.Cu)
   (at 0 0)
   (attr smd)
   (fp_text reference SM0603_resistor (at 0.0635 -0.0635 90) (layer F.SilkS)

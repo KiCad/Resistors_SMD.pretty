@@ -1,4 +1,4 @@
-(module r_0805_ReflowWave (layer F.Cu)
+(module R_0805 (layer F.Cu)
   (at 0 0)
   (descr "Resistor, SMD, 0805, Reflow, Wave,")
   (tags "Resistor, SMD, 0805, Reflow, Wave,")

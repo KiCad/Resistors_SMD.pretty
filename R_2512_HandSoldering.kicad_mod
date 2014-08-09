@@ -1,4 +1,4 @@
-(module r_2512_HandSoldering (layer F.Cu)
+(module R_2512_HandSoldering (layer F.Cu)
   (at 0 0)
   (descr "Resistor, SMD, 2512, Hand soldering,")
   (tags "Resistor, SMD, 2512, Hand soldering,")

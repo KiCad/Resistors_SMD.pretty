@@ -1,4 +1,4 @@
-(module r_cat16-2 (layer F.Cu)
+(module R_Cat16-2 (layer F.Cu)
   (at 0 0)
   (descr "SMT resistor net, Bourns CAT16 series, 2 way")
   (fp_text reference r_cat16-2 (at 0 -1.30048) (layer F.SilkS)

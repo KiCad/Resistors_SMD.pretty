@@ -1,4 +1,4 @@
-(module r_0402 (layer F.Cu)
+(module R_0402 (layer F.Cu)
   (at 0 0)
   (attr smd)
   (fp_text reference SM0402_r (at 0 0) (layer F.SilkS)
