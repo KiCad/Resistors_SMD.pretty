@@ -4,10 +4,10 @@
   (tags "Resistor, SMD, 0805, Reflow, Wave,")
   (attr smd)
   (fp_text reference R_0805 (at 0.09906 -2.30124) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+    (effects (font (thickness 0.3)))
   )
   (fp_text value R*** (at 0.20066 2.60096) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+    (effects (font (thickness 0.3)))
   )
   (fp_line (start -1.89992 0.50038) (end -1.89992 1.09982) (layer F.SilkS) (width 0.15))
   (fp_line (start -1.89992 1.09982) (end 1.89992 1.09982) (layer F.SilkS) (width 0.15))

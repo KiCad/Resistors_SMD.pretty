@@ -4,10 +4,10 @@
   (tags "Resistor, SMD, 2512, Hand soldering,")
   (attr smd)
   (fp_text reference R_2512_HandSoldering (at 0.09906 -3.0988) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+    (effects (font (thickness 0.3)))
   )
   (fp_text value R*** (at -0.39878 4.20116) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+    (effects (font (thickness 0.3)))
   )
   (fp_circle (center 0 0) (end 0.8001 0) (layer F.Adhes) (width 0.381))
   (fp_line (start -5.00126 2.10058) (end 5.00126 2.10058) (layer F.SilkS) (width 0.15))

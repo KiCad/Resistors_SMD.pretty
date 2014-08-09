@@ -5,7 +5,7 @@
     (effects (font (size 0.20066 0.20066) (thickness 0.04064)))
   )
   (fp_text value R*** (at 0 3.59918) (layer F.SilkS) hide
-    (effects (font (size 0.20066 0.20066) (thickness 0.04064)))
+    (effects (font (size 0.2 0.2) (thickness 0.04)))
   )
   (fp_line (start -0.50038 -2.4003) (end 0.50038 -2.4003) (layer F.SilkS) (width 0.15))
   (fp_line (start -0.50038 -1.6002) (end 0.50038 -1.6002) (layer F.SilkS) (width 0.15))
