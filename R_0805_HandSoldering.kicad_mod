@@ -3,7 +3,7 @@
   (descr "Resistor, SMD, 0805, Hand soldering,")
   (tags "Resistor, SMD, 0805, Hand soldering,")
   (attr smd)
-  (fp_text reference R (at 0.09906 -2.30124) (layer F.SilkS)
+  (fp_text reference R_0805_HandSoldering (at 0.09906 -2.30124) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
   (fp_text value Resistor_SMD0805_HandSoldering_RevA_Date21Jun2010 (at 0.20066 2.60096) (layer F.SilkS) hide

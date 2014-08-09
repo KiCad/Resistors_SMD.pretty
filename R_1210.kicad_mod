@@ -3,7 +3,7 @@
   (descr "Resistor, SMD, 1210, Reflow, Wave,")
   (tags "Resistor, SMD, 1210, Reflow, Wave,")
   (attr smd)
-  (fp_text reference R (at 0.09906 -3.0988) (layer F.SilkS)
+  (fp_text reference R_1206 (at 0.09906 -3.0988) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
   (fp_text value Resistor_SMD1210_ReflowWave_RevA_Date21Jun2010 (at -0.20066 3.40106) (layer F.SilkS) hide

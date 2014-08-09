@@ -3,7 +3,7 @@
   (descr "Resistor, SMD, 2512, Hand soldering,")
   (tags "Resistor, SMD, 2512, Hand soldering,")
   (attr smd)
-  (fp_text reference R (at 0.09906 -3.0988) (layer F.SilkS)
+  (fp_text reference R_2512_HandSoldering (at 0.09906 -3.0988) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
   (fp_text value Resistor_SMD2512_HandSoldering_RevA_Date21Jun2010 (at -0.39878 4.20116) (layer F.SilkS) hide
