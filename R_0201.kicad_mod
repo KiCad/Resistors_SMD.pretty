@@ -1,10 +1,9 @@
 (module R_0201 (layer F.Cu)
-  (at 0 0)
   (attr smd)
-  (fp_text reference R_0201 (at 0 0) (layer F.SilkS)
+  (fp_text reference R_0201 (at 0 -0.6) (layer F.SilkS)
     (effects (font (size 0.2 0.2) (thickness 0.05)))
   )
-  (fp_text value R*** (at 0 0) (layer F.SilkS) hide
+  (fp_text value R*** (at 0 0.6) (layer F.SilkS) hide
     (effects (font (size 0.2 0.2) (thickness 0.05)))
   )
   (fp_line (start 0.2 -0.25) (end 0.45 -0.25) (layer F.SilkS) (width 0.15))
