@@ -8,6 +8,7 @@
   )
   (fp_line (start -1.1 -0.9) (end 1.1 -0.9) (layer F.SilkS) (width 0.15))
   (fp_line (start -1.1 0.9) (end 1.1 0.9) (layer F.SilkS) (width 0.15))
+  (fp_circle (center 0 0) (end 0.1 0) (layer F.Adhes) (width 0.2))
   (pad 1 smd rect (at 0.762 0.39878) (size 0.762 0.4318) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -0.762 0.39878) (size 0.762 0.4318) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.762 -0.39878) (size 0.762 0.4318) (layers F.Cu F.Paste F.Mask))
