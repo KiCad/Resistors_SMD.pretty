@@ -1,4 +1,4 @@
-(module R_0805_HandSoldering (layer F.Cu)
+(module R_0805_HandSoldering (layer F.Cu) (tedit 53FC1A73)
   (descr "Resistor, SMD, 0805, Hand soldering,")
   (tags "Resistor, SMD, 0805, Hand soldering,")
   (attr smd)
@@ -13,4 +13,9 @@
   (fp_circle (center 0 0) (end 0.15 0) (layer F.Adhes) (width 0.3))
   (pad 1 smd rect (at -1.30048 0) (size 1.50114 1.19888) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.30048 0) (size 1.50114 1.19888) (layers F.Cu F.Paste F.Mask))
+  (model smd/resistors/R0805/R0805.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.4 0.4 0.4))
+    (rotate (xyz 0 0 0))
+  )
 )
