@@ -16,7 +16,7 @@
   (fp_line (start -2.6 -1.825) (end 2.6 -1.825) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -3.95 0) (size 2.7 3.2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.95 0) (size 2.7 3.2) (layers F.Cu F.Paste F.Mask))
-  (model Resistors_SMD/R_2512.wrl
+  (model Resistors_SMD/R_2512_HandSoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
