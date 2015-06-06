@@ -1,5 +1,5 @@
 (module R_1812 (layer F.Cu) (tedit 5572A4A8)
-  (descr "Resistor SMD 1812, flow soldering, Panasonic (see ERJ3GEYJ101V)")
+  (descr "Resistor SMD 1812, flow soldering, Panasonic (see ERJ12)")
   (tags "resistor 1812")
   (attr smd)
   (fp_text reference REF** (at 0 -3.175) (layer F.SilkS)
