@@ -1,4 +1,4 @@
-(module R_1508_Wide (layer F.Cu) (tedit 5834FCF5)
+(module R_1508_Wide (layer F.Cu) (tedit 58CE5481)
   (descr "Resistor SMD 1508 wide package")
   (tags "resistor 1508")
   (attr smd)

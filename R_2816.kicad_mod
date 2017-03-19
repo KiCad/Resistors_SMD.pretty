@@ -1,4 +1,4 @@
-(module R_2816 (layer F.Cu) (tedit 58AADB4E)
+(module R_2816 (layer F.Cu) (tedit 58CE5481)
   (descr "Resistor SMD 2816, reflow soldering, Vishay (see WSL-VISHAY.PDF)")
   (tags "resistor 2816")
   (attr smd)

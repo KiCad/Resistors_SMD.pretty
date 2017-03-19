@@ -1,4 +1,4 @@
-(module R_2816_HandSoldering (layer F.Cu) (tedit 58AADB3D)
+(module R_2816_HandSoldering (layer F.Cu) (tedit 58CE5481)
   (descr "Resistor SMD 2816, hand soldering, Vishay (see WSL-VISHAY.PDF)")
   (tags "resistor 2816")
   (attr smd)
