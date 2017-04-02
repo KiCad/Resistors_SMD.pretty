@@ -1,4 +1,4 @@
-(module R_0612 (layer F.Cu) (tedit 58CE5481)
+(module R_0612 (layer F.Cu) (tedit 58E0A804)
   (descr "Resistor SMD 0612, reflow solderinG")
   (tags "resistor 0612 ")
   (attr smd)
